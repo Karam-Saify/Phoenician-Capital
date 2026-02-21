@@ -1,4 +1,4 @@
-# PDF Crawler + PDF Chatbot (RAG) — Exam Deliverable
+# PDF Crawler + PDF Chatbot (RAG) 
 
 This project contains **two runnable entrypoints**:
 
